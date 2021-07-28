@@ -1,0 +1,9 @@
+.bubble {
+  position: absolute;
+  left: 240px;
+  bottom: 100px;
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  background-color: rgba(200, 200, 200, 0.5);
+}
